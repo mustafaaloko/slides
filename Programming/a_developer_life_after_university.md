@@ -54,33 +54,13 @@ Twitter: [@mustafaaloko](https://twitter.com/mustafaaloko)
 
 ---
 
-### `$width` / `$height`
+# Pre-career Tips
 
-Changes width and height of all the slides.
-
-You can use units: `px` (default), `cm`, `mm`, `in`, `pt`, and `pc`.
-
-```html
-<!-- $width: 12in -->
-```
-
-### `$size`
-
-Changes slide size by presets.
-
-Presets: `4:3`, `16:9`, `A0`-`A8`, `B0`-`B8` and suffix of `-portrait`.
-
-```html
-<!-- $size: 16:9 -->
-```
-
-<!--
-$size: a4
-
-Example is here. Global Directive is enabled in anywhere.
-It apply the latest value if you write multiple same Global Directives.
--->
-
+- Be a specialist, be a generalist
+- Have something to show
+- Be fair and realistic about your incomes after you are done with your university
+- Ge involved with open source (long term tip)
+- Don't forget to consider your current state while deciding your future
 ---
 
 ## Page Directives
