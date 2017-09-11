@@ -1,6 +1,6 @@
 <!-- $theme: default -->
 
-A Passionate Programmer in University
+A Developer's Life after University
 ===
 
 ###### Life and pre-career of a software developer in University
@@ -21,65 +21,36 @@ Twitter: [@mustafaaloko](https://twitter.com/mustafaaloko)
 
 ---
 
-# Things we are gonna talk about
+# Don't get upset with your black screen
 
-- fa
+- Loops, blocks, assignments, if...else, black screens will always be there, master them.
+- From building a simple calculator to writing code for NASA's spaceships your loops and if, elses will be always be with you.
 
----
-
-# How to write slides?
-
-Split slides by horizontal ruler `---`. It's very simple.
-
-```md
-# Slide 1
-
-foobar
+# ![](black_screen.png)
 
 ---
 
-# Slide 2
+# What good will data structures and algorithms bring to you?
 
-foobar
-```
-
-> *Notice: Ruler (`<hr>`) is not displayed in Marp.*
-
+- Is there any good in it?
+- Logic and decision making
+- Big companies interviews
+- Reducing complexity
 ---
 
-# Directives
+# Personality Tips
 
-Marp's Markdown has extended directives to affect slides.
-
-Insert HTML comment as below:
-```html
-<!-- {directive_name}: {value} -->
-```
-
-```html
-<!--
-{first_directive_name}:  {value}
-{second_directive_name}: {value}
-...
--->
-```
+- Sometimes, don't listen to your family
+- If you love it, you will get it
+- Don't let university kill you
+- Go out and enjoy your time
 ---
 
-## Global Directives
+# Things to start from today
 
-### `$theme`
-
-Changes the theme of all the slides in the deck. You can also change from `View -> Theme` menu.
-
-```
-<!-- $theme: gaia -->
-```
-
-|Theme name|Value|Directive|
-|:-:|:-:|:-|
-|***Default***|default|`<!-- $theme: default -->`
-|**Gaia**|gaia|`<!-- $theme: gaia -->`
-
+- Build small things, but usable things
+- Start automation from today, start with ugly scripts
+- Reinvent the wheel as much as you can
 
 ---
 
