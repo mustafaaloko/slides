@@ -1,5 +1,6 @@
 <!-- $theme: default -->
 
+
 A Developer's Life after University
 ===
 
@@ -13,14 +14,15 @@ A Developer's Life after University
 ##
 ##
 
-##### Mustafa Ehsan
+##### Mustafa Ehsan 
+Website: https://mustafaaloko.github.io
 GitHub: [@mustafaaloko](https://github.com/mustafaaloko)
 Twitter: [@mustafaaloko](https://twitter.com/mustafaaloko)
 
 ###### September 2017
 
 ---
-
+<!-- page_number: true -->
 # Don't get upset with your black screen
 
 - Loops, blocks, assignments, if...else, black screens will always be there, master them.
@@ -40,7 +42,8 @@ Twitter: [@mustafaaloko](https://twitter.com/mustafaaloko)
 
 # Personality Tips
 
-- Sometimes, don't listen to your family
+- If you cannot answer your "why?", don't go forward
+- Sometimes, don't listen to your family; ask them why?
 - If you love it, you will get it
 - Don't let university kill you
 - Go out and enjoy your time
@@ -58,132 +61,35 @@ Twitter: [@mustafaaloko](https://twitter.com/mustafaaloko)
 
 - Be a specialist, be a generalist
 - Have something to show
-- Be fair and realistic about your incomes after you are done with your university
+- Be fair and realistic about your incomes
+- Decide with your current state in mind
 - Ge involved with open source (long term tip)
-- Don't forget to consider your current state while deciding your future
 ---
 
-## Page Directives
+# Open Source Involvement
 
-The page directive would apply to the  **current page and the following pages**.
-You should insert it *at the top* to apply it to all slides.
-
-### `page_number`
-
-Set `true` to show page number on slides. *See lower right!*
-
-```html
-<!-- page_number: true -->
-```
-
-<!--
-page_number: true
-
-Example is here. Pagination starts from this page.
-If you use multi-line comment, directives should write to each new lines.
--->
-
+- You will learn, a whole lot
+- You will be peer with industry's bests
+- Learning the best possible practices in a technology
+- It can even help you make a lot of money
+- It can help you start a business out of it
 ---
 
-### `template`
+# Some open source maintainers stories...
 
-Set to use template of theme.
+---
+# Taylor Otwell's Story
+To be filled...
 
-The `template` directive just enables that using theme supports templates.
-
-```html
-<!--
-$theme: gaia
-template: invert
--->
-
-Example: Set "invert" template of Gaia theme.
-
-```
+---
+# Mohamed Said's Story
+To be filled...
 
 ---
 
-### `footer`
-
-Add a footer to the current slide and all of the following slides
-
-```html
-<!-- footer: This is a footer -->
-```
-
-Example: Adds "This is a footer" in the bottom of each slide
+# Some good resources
+To be filled...
 
 ---
 
-### `prerender`
-
-Pre-renders a slide, which can prevent issues with very large background images.
-
-```html
-<!-- prerender: true -->
-```
-
----
-
-## Pro Tips
-
-#### Apply page directive to current slide only
-
-Page directive can be selectively applied to the current slide by prefixing the page directive with `*`.
-
-```
-<!-- *page_number: false -->
-<!-- *template: invert -->
-```
-
-<!--
-*page_number: false
-
-Example is here.
-Page number is not shown in current page, but it's shown on later pages.
--->
-
----
-
-#### Slide background Images
-
-You can set an image as a slide background.
-
-```html
-![bg](mybackground.png)
-```
-
-Options can be provided after `bg`, for example `![bg original](path)`.
-
-Options include:
-
-- `original` to include the image without any effects
-- `x%` to include the  image at `x` percent of the slide size
-
-Include multiple`![bg](path)` tags to stack background images horizontally.
-
-![bg](images/background.png)
-
----
-
-#### Maths Typesetting
-
-Mathematics is typeset using the `KaTeX` package. Use `$` for inline maths, such as $ax^2+bc+c$, and `$$` for block maths:
-
-$$I_{xx}=\int\int_Ry^2f(x,y)\cdot{}dydx$$
-
-```html
-This is inline: $ax^2+bx+c$, and this is block:
-
-$$I_{xx}=\int\int_Ry^2f(x,y)\cdot{}dydx$$
-
-```
-
----
-
-## Enjoy writing slides! :+1:
-
-### https://github.com/yhatt/marp
-
-Copyright &copy; 2016 [Yuki Hattori](https://github.com/yhatt)
-This software released under the [MIT License](https://github.com/yhatt/marp/blob/master/LICENSE).
+# <center>Thank you! :+1:</center>
