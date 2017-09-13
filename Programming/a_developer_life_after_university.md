@@ -62,7 +62,7 @@ Twitter: [@mustafaaloko](https://twitter.com/mustafaaloko)
 - Be a specialist, be a generalist
 - Have something to show
 - Be fair and realistic about your incomes
-- Decide with your current state in mind
+- Make decisions with your current state in mind
 - Ge involved with open source (long term tip)
 ---
 
@@ -83,6 +83,10 @@ To be filled...
 
 ---
 # Mohamed Said's Story
+To be filled...
+
+---
+# Hamed Mehryar
 To be filled...
 
 ---

@@ -8,13 +8,72 @@
 \headcommand {\beamer@subsectionentry {0}{1}{1}{3}{Who am I?}}\headcommand {\beamer@subsectionpages {3}{2}}
 \headcommand {\slideentry {1}{1}{1}{3/3}{Who am I?}{0}}
 \headcommand {\beamer@framepages {3}{3}}
-\headcommand {\sectionentry {2}{Questions}{4}{Questions}{0}}
+\headcommand {\sectionentry {2}{University Days}{4}{University Days}{0}}
 \headcommand {\beamer@sectionpages {3}{3}}
 \headcommand {\beamer@subsectionpages {3}{3}}
-\headcommand {\slideentry {2}{0}{1}{4/4}{}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{4}{Your Boring Black Screen}}\headcommand {\beamer@subsectionpages {4}{3}}
+\headcommand {\slideentry {2}{1}{1}{4/4}{Your Boring Black Screen}{0}}
 \headcommand {\beamer@framepages {4}{4}}
-\headcommand {\beamer@partpages {1}{4}}
-\headcommand {\beamer@subsectionpages {4}{4}}
-\headcommand {\beamer@sectionpages {4}{4}}
-\headcommand {\beamer@documentpages {4}}
-\headcommand {\def \inserttotalframenumber {4}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{5}{Data Structures and Algorithms}}\headcommand {\beamer@subsectionpages {4}{4}}
+\headcommand {\slideentry {2}{2}{1}{5/5}{Data Structures and Algorithms}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\sectionentry {3}{Personality Tips}{6}{Personality Tips}{0}}
+\headcommand {\beamer@sectionpages {4}{5}}
+\headcommand {\beamer@subsectionpages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{6}{Things to Know}}\headcommand {\beamer@subsectionpages {6}{5}}
+\headcommand {\slideentry {3}{1}{1}{6/6}{Things to Know}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{7}{Things to do}}\headcommand {\beamer@subsectionpages {6}{6}}
+\headcommand {\slideentry {3}{2}{1}{7/7}{Things to do}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\sectionentry {4}{Your Career}{8}{Your Career}{0}}
+\headcommand {\beamer@sectionpages {6}{7}}
+\headcommand {\beamer@subsectionpages {7}{7}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{8}{Pre-Career Tips}}\headcommand {\beamer@subsectionpages {8}{7}}
+\headcommand {\slideentry {4}{1}{1}{8/8}{Pre-Career Tips}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{9}{Career paths in Software}}\headcommand {\beamer@subsectionpages {8}{8}}
+\headcommand {\slideentry {4}{2}{1}{9/9}{Career paths in Software}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{10}{Open Source Involvement}}\headcommand {\beamer@subsectionpages {9}{9}}
+\headcommand {\slideentry {4}{3}{1}{10/10}{Open Source Involvement}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\sectionentry {5}{Some Success Stories}{11}{Some Success Stories}{0}}
+\headcommand {\beamer@sectionpages {8}{10}}
+\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{11}{Sher Shah Rahim's Story}}\headcommand {\beamer@subsectionpages {11}{10}}
+\headcommand {\slideentry {5}{1}{1}{11/11}{Sher Shah Rahim's Story}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {5}{1}{2}{12/12}{Sher Shah Rahim's Story}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{13}{Mustafa Wahrez's Story}}\headcommand {\beamer@subsectionpages {11}{12}}
+\headcommand {\slideentry {5}{2}{1}{13/13}{Mustafa Wahrez's Story}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\sectionentry {6}{Open Source Career}{14}{Open Source Career}{0}}
+\headcommand {\beamer@sectionpages {11}{13}}
+\headcommand {\beamer@subsectionpages {13}{13}}
+\headcommand {\beamer@subsectionentry {0}{6}{1}{14}{Taylor Otwell}}\headcommand {\beamer@subsectionpages {14}{13}}
+\headcommand {\slideentry {6}{1}{1}{14/14}{Taylor Otwell}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@subsectionentry {0}{6}{2}{15}{Mohamed Said}}\headcommand {\beamer@subsectionpages {14}{14}}
+\headcommand {\slideentry {6}{2}{1}{15/15}{Mohamed Said}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\sectionentry {7}{Suggested Resources}{16}{Suggested Resources}{0}}
+\headcommand {\beamer@sectionpages {14}{15}}
+\headcommand {\beamer@subsectionpages {15}{15}}
+\headcommand {\beamer@subsectionentry {0}{7}{1}{16}{CS50 from Harvard University}}\headcommand {\beamer@subsectionpages {16}{15}}
+\headcommand {\slideentry {7}{1}{1}{16/16}{CS50 from Harvard University}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@subsectionentry {0}{7}{2}{17}{Code.org}}\headcommand {\beamer@subsectionpages {16}{16}}
+\headcommand {\slideentry {7}{2}{1}{17/17}{Code.org}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\sectionentry {8}{Questions}{18}{Questions}{0}}
+\headcommand {\beamer@sectionpages {16}{17}}
+\headcommand {\beamer@subsectionpages {17}{17}}
+\headcommand {\slideentry {8}{0}{1}{18/18}{}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\beamer@partpages {1}{18}}
+\headcommand {\beamer@subsectionpages {18}{18}}
+\headcommand {\beamer@sectionpages {18}{18}}
+\headcommand {\beamer@documentpages {18}}
+\headcommand {\def \inserttotalframenumber {18}}

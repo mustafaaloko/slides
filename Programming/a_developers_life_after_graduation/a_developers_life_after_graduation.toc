@@ -1,2 +1,21 @@
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Who am I?}{3}{0}{1}
+\beamer@sectionintoc {2}{University Days}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Your Boring Black Screen}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Data Structures and Algorithms}{5}{0}{2}
+\beamer@sectionintoc {3}{Personality Tips}{6}{0}{3}
+\beamer@subsectionintoc {3}{1}{Things to Know}{6}{0}{3}
+\beamer@subsectionintoc {3}{2}{Things to do}{7}{0}{3}
+\beamer@sectionintoc {4}{Your Career}{8}{0}{4}
+\beamer@subsectionintoc {4}{1}{Pre-Career Tips}{8}{0}{4}
+\beamer@subsectionintoc {4}{2}{Career paths in Software}{9}{0}{4}
+\beamer@subsectionintoc {4}{3}{Open Source Involvement}{10}{0}{4}
+\beamer@sectionintoc {5}{Some Success Stories}{11}{0}{5}
+\beamer@subsectionintoc {5}{1}{Sher Shah Rahim's Story}{11}{0}{5}
+\beamer@subsectionintoc {5}{2}{Mustafa Wahrez's Story}{13}{0}{5}
+\beamer@sectionintoc {6}{Open Source Career}{14}{0}{6}
+\beamer@subsectionintoc {6}{1}{Taylor Otwell}{14}{0}{6}
+\beamer@subsectionintoc {6}{2}{Mohamed Said}{15}{0}{6}
+\beamer@sectionintoc {7}{Suggested Resources}{16}{0}{7}
+\beamer@subsectionintoc {7}{1}{CS50 from Harvard University}{16}{0}{7}
+\beamer@subsectionintoc {7}{2}{Code.org}{17}{0}{7}
